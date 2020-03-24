@@ -20,3 +20,5 @@ Check out these links:
 [Reading a book a week](https://www.youtube.com/watch?v=ll2C2J6Q3SY)
 
 [BeMyEyes](https://www.bemyeyes.com/)
+
+I'm beginning to think this blog is going to be a powerful change agent in my life. My grandma used to always say if you want to clean your house, throw a party. What I'm starting to see with this, is if you want to teach someone, you need something new to teach, so you need to learn. Whether it's something new, or refining. The growth is there. The work is there, and the community is there. Distant and social.
