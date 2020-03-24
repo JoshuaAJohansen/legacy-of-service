@@ -3,12 +3,11 @@ title: Josh Johansen
 subtitle: Moving onwards and upwards. Aspiring bodhisattva.
 image: /img/home-jumbotron.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: Why onwards and upwards?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    You need a direction to move in life. Otherwise you meander and stagnate. I
+    have decided to move forward, and build a better world than the one we woke
+    up with today.
 intro:
   heading: What we offer
   text: >-
