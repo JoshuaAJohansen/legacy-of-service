@@ -12,4 +12,5 @@ Thomas Clear lays it out in his book ( insert image of tree of good decisions fo
 Check out these links:
 
 [MadFit](https://www.youtube.com/channel/UCpQ34afVgk8cRQBjSJ1xuJQ)
+
 [YogaWithAdrienne](https://www.youtube.com/user/yogawithadriene)
